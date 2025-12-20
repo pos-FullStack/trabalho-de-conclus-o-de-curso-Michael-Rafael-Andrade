@@ -37,21 +37,21 @@ Este arquivo no final está sendo preparado para ser lançado no no git na parte
 # Arquitetura: MVC (Model-View-Controller).<br>
 # Guia de Instalação<br>
 <br>
-## Clone o repositório:<br>
+Clone o repositório:<br>
 <br>
 git clone https://github.com/pos-FullStack/trabalho-de-conclus-o-de-curso-Michael-Rafael-Andrade <br>
 <br>
-## Instale as dependências:<br>
+Instale as dependências:<br>
 npm install<br>
 <br>
-## Configure o Banco de Dados:<br>
+Configure o Banco de Dados:<br>
 Crie um banco de dados MySQL chamado erp_database.<br>
 Renomeie o arquivo .env.example para .env e insira suas credenciais de acesso.<br>
-## Execute as Migrations:<br>
+Execute as Migrations:<br>
 npx sequelize-cli db:migrate <br>
-## Inicie a aplicação:<br>
+Inicie a aplicação:<br>
 npm run dev<br>
-## Funcionalidades<br>
+Funcionalidades<br>
 [x] Gestão de Estoque Completa.<br>
 [x] Controle de Fluxo de Caixa.<br>
 [x] Bloco de Notas para Lembretes Gerenciais.<br>
