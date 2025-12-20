@@ -13,7 +13,7 @@ Funcionalidades<br>
     • [x] Bloco de Notas para Lembretes Gerenciais.<br>
     • [x] Interface Totalmente Responsiva (Mobile-First).<br><br>
 
-** Tecnologias Utilizadas ** <br>
+Tecnologias utilizadas <br>
 # Frontend: React.js, HTML5, CSS3, Bootstrap.<br>
 # Backend: Node.js, Express.<br>
 # Banco de Dados: MySQL.<br>
