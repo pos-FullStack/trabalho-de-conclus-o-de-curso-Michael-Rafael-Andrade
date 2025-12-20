@@ -34,7 +34,7 @@ Este arquivo no final está sendo preparado para ser lançado no no git na parte
 # Backend: Node.js, Express.<br>
 # Banco de Dados: MySQL.<br>
 # ORM: Sequelize.<br>
-# Arquitetura: MVC (Model-View-Controller).<br>
+# Arquitetura: MVC (Model-View-Controller).<br><br>
 # Guia de Instalação<br>
 <br>
 Clone o repositório:<br>
